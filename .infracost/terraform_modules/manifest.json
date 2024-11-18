@@ -1,0 +1,1 @@
+{"Path":"c:\\Users\\luca.bigoni\\terraform-managing-network-infrastructure","Version":"2.0","Modules":[{"Key":"consul","Source":"registry.terraform.io/hashicorp/consul/aws","Version":"0.11.0","Dir":".infracost\\terraform_modules\\78190153eb629ca53c8274bafca088dd","DownloadURL":"git::https://github.com/hashicorp/terraform-aws-consul?ref=e9ceb573687c3d28516c9e3714caca84db64a766"}]}
